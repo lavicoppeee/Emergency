@@ -1,4 +1,4 @@
-package it.polito.tdp.Emergency.model;
+ package it.polito.tdp.Emergency.model;
 
 import java.time.Duration;
 import java.time.LocalTime;
